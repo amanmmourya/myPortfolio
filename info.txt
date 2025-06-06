@@ -1,0 +1,113 @@
+Self-Introduction: Aman Mourya
+My name is Aman Mourya, and I am currently pursuing a Bachelor of Technology in Electronics and Communication Engineering (ECE) from Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat. Born on March 31, 2005, in Gorakhpur, Uttar Pradesh, I have spent the majority of my life in Adipur, Kutch (Gujarat) due to my father's job as a Station Master in the Indian Railways. My mother is a homemaker, and both of them have been a constant source of support and inspiration throughout my journey.
+
+Academic Background
+I cracked the JEE Main with an All India Rank (AIR) of 26,900 and also qualified for the JEE Advanced, which enabled me to secure admission into one of the premier NITs in India. I am proud to share that I currently hold a departmental rank of 11 with a CGPA of 9.2.
+
+Throughout my academic journey at SVNIT, I have studied various core subjects, including:
+
+Fundamentals of Electrical Engineering
+
+Programming Fundamentals
+
+Analog and Digital Electronics
+
+Microprocessors and Microcontrollers
+
+Communication Systems
+
+Signal and System Analysis
+
+Analog and Digital Integrated Circuits
+
+Linear Integrated Circuits
+
+Electromagnetic Waves
+
+Network Analysis
+
+Statistical Signal Analysis
+
+I have also worked with simulation tools such as MATLAB, NGSpice, and LTspice for circuit analysis and practical experimentation.
+
+Technical Skills & Development Journey
+Although I haven’t undertaken any internships yet, I have consistently upskilled myself during the first two years of college. I am a self-taught full-stack developer, well-versed in:
+
+Frontend:
+
+HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js
+
+Backend & Database:
+
+Node.js, Express.js, MongoDB, Firebase
+
+Languages:
+
+Python, Java (primary language), C, C++, JavaScript
+
+Libraries & Tools:
+
+NumPy, Matplotlib, OpenCV, Langchain, PySerial, Auth.js
+
+Google Colab, Jupyter Notebook, Langflow
+
+Projects
+1. Object-Following Bot
+An autonomous robot developed using YOLO object detection, OpenCV, and Arduino Mega, integrated via PySerial. This project involved real-time object tracking using computer vision and was a hands-on experience in robotics.
+
+2. Sunrise Events
+A full-stack event and wedding booking platform developed during a campus hackathon with Google Developer Group (GDG). Built using the MERN stack and integrated with Langchain for user interaction enhancements.
+
+3. ThoughtFlow
+A real-time messaging platform developed using Node.js, Express, and Socket.io. This project demonstrates my understanding of web sockets and real-time communication.
+
+4. Doctor’s Prescription System
+An intelligent system built in Python using Langchain to provide basic medical suggestions and medication guidance. The system is trained on reliable sources like MBBS books and verified medical articles.
+
+5. Uber Clone
+A React-based frontend project that simulates the interface and features of a ride-hailing platform. Integrated map APIs and focused on UI/UX design.
+
+Club Involvement
+1. Drishti (Technical & Robotics Club)
+Participated in the Line Follower Robot competition in the first year.
+
+Contributed to the Object-Following Bot project and explored computer vision and embedded systems.
+
+Eventually moved away from the club to focus on non-core software placements.
+
+2. ACM (Association for Computing Machinery)
+Engaged in several hackathons and coding events to improve problem-solving and teamwork skills.
+
+3. Google Developer Group (GDG), NIT Surat
+Participated in hackathons and contributed to Sunrise Events, learning collaboration and real-world project development.
+
+DSA & Competitive Programming
+I started learning Data Structures and Algorithms (DSA) during my first-year summer break. Although I initially focused on understanding the concepts, I have now started solving problems regularly by following resources like:
+
+Striver’s DSA Sheet
+
+Apna College DSA Sheet
+
+I actively practice on:
+
+LeetCode
+
+GeeksforGeeks
+
+Codeforces
+
+Personality & Interests
+Discipline, consistency, and a strong desire to learn are my core strengths. I love waking up early and engaging in spiritual practices that give me peace and help me stay calm even in challenging situations.
+
+Hobbies:
+Playing sports like cricket and football
+
+Engaging in indoor games like chess
+
+Creative writing
+
+Listening to music – my favorite singer is Arijit Singh
+
+Online Presence
+I keep my social media usage minimal to maintain focus on academics and personal development.
+However, I’m active on LinkedIn, where I connect with professionals, share my achievements, and explore opportunities.

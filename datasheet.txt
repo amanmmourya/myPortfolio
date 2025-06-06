@@ -1,0 +1,10 @@
+#just wanted to add the color pallete 
+
+1.black
+2.white
+3.gray for texts - gray-400
+4.text purple-400 or 500
+#9c27b0,
+#e91e63,
+#673ab7,
+#ff4081
