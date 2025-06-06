@@ -20,7 +20,15 @@ export default function AgentChat() {
             body:JSON.stringify({question:input})
         })
         const ext=await responseFromLangchain.json();
-        setResponse(ext.response.kwargs.content);
+        console.log(ext);
+        if(ext.response.kwargs.content){
+
+          setResponse(ext.response.kwargs.content);
+        }else if(ext.response.content){
+          setResponse(ext.response.content);
+        }else{
+          setResponse("Some error occurred");
+        }
         setInput("");
   };
 
