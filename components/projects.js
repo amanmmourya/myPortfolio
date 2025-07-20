@@ -61,7 +61,7 @@ const projects = () => {
         },
         {
             projectName: "AI Powered Finance Manager",
-            imageUrl: '/Images/afm.jpg',
+            imageUrl: '/Images/fin.webp',
             projectDescription: "Developed an AI-powered finance manager that helps users track their expenses, manage budgets, and gain insights into their financial habits. It has OCR capabilities to scan and process bills, making financial management more efficient and user-friendly.",
             projectTechStack: "Next.js, Redux Toolkit, Node.js, Expresss.js, MySQL, Tesseract.js",
             githubLink: "",

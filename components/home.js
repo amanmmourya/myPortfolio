@@ -13,7 +13,7 @@ const home = () => {
                         </div>
 
                         <div className="flex justify-center items-center text-2xl lg:text-5xl gap-2">
-                            <span>Machine Learning Engineer</span>
+                            <span>ML Enthusiast</span>
                             <span className="text-base lg:text-2xl">&</span>
                         </div>
 
