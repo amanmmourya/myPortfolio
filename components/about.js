@@ -34,7 +34,7 @@ const about = () => {
                     <div className='w-[80%] m-auto md:w-[50%] p-3 md:px-[10%] md:py-[2%] text-gray-400'>
                         <li className=''>Sardar Vallabhbhai National Institute of Technology, Surat</li>
                         <li className=''>B.Tech. in Electronics & Communication Engineering</li>
-                        <li className=''>CGPA: 9.2</li>
+                        <li className=''>CGPA: 9.3</li>
                     </div>
                 </div>
                 <div className={`skills-content ${skill ? 'block' : 'hidden'}`}>
