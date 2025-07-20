@@ -59,6 +59,15 @@ const projects = () => {
             liveLink: "none",
             likes: 0 
         },
+        {
+            projectName: "AI Powered Finance Manager",
+            imageUrl: '/Images/afm.jpg',
+            projectDescription: "Developed an AI-powered finance manager that helps users track their expenses, manage budgets, and gain insights into their financial habits. It has OCR capabilities to scan and process bills, making financial management more efficient and user-friendly.",
+            projectTechStack: "Next.js, Redux Toolkit, Node.js, Expresss.js, MySQL, Tesseract.js",
+            githubLink: "",
+            liveLink: "none",
+            likes: 0
+        }
         
     ]
     const [projectsState, setProjectState]=useState(projects);
