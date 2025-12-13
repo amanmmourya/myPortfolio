@@ -12,7 +12,7 @@ const about = () => {
         setEdu(false);
         setSkill(true);
     }
-    const skillSet = ["Java", "C++", "Python","HTML","CSS","Tailwind CSS", "JavaScript", "MongoDB", "Node.js", "Express.js","socket.io","Mongoose ODM", "React", "Next.js","OpenCV","YOLO","Pyserial","Arduino IDE", "Numpy", "Matplotlib", "LangChain", "LTSpice", "NGSpice", "MatLab"]
+    const skillSet = ["Java", "C++", "Python","R","HTML","CSS","Tailwind CSS", "JavaScript", "MongoDB","MySQL", "Node.js", "Express.js","socket.io","Mongoose ODM", "React", "Next.js","OpenCV","YOLO","Pyserial","Arduino IDE", "Numpy", "Matplotlib","Pandas", "LangChain", "LTSpice", "NGSpice", "MatLab","Verilog","Embedded C"]
     return (
         <section id='about'>
             <div className='about-container'>
