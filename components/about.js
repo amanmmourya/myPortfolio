@@ -17,7 +17,7 @@ const about = () => {
         <section id='about'>
             <div className='about-container'>
                 <div className='text-[#9c27b0] text-2xl md:text-5xl px-[8%] py-[5%] md:py-5 md:px-[5%] cursor-pointer'>About Me</div>
-                <p className='p-5 text-gray-400 text-justify md:px-[5%]'>I'm Aman Mourya, a 3rd-year ECE student at SVNIT Surat, with a strong interest in coding, ML/AI, and data-driven technologies. I’ve worked with Python, Java, C++, full-stack development, and tools like NumPy, Pandas, and Matplotlib, along with hands-on experience in DSA and microcontrollers.</p>
+                <p className='p-5 text-gray-400 text-justify md:px-[5%]'>I'm Aman Mourya, a 4th-year ECE student at SVNIT Surat, with a strong interest in coding, ML/AI, and data-driven technologies. I’ve worked with Python, Java, C++, full-stack development, and tools like NumPy, Pandas, and Matplotlib, along with hands-on experience in DSA and microcontrollers.</p>
                 <p className='p-5 text-gray-400 text-justify md:px-[5%]'>Passionate about building real-world solutions, I'm eager to contribute to industry projects where I can apply my skills, learn from others, and make a meaningful impact.</p>
 
             </div>
@@ -34,7 +34,7 @@ const about = () => {
                     <div className='w-[80%] m-auto md:w-[50%] p-3 md:px-[10%] md:py-[2%] text-gray-400'>
                         <li className=''>Sardar Vallabhbhai National Institute of Technology, Surat</li>
                         <li className=''>B.Tech. in Electronics & Communication Engineering</li>
-                        <li className=''>CGPA: 9.3</li>
+                        <li className=''>CGPA: 9.38</li>
                     </div>
                 </div>
                 <div className={`skills-content ${skill ? 'block' : 'hidden'}`}>
