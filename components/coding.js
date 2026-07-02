@@ -9,7 +9,7 @@ const coding = () => {
                 <a href='https://leetcode.com/u/Aman__Mourya__31/' className='leetcode rounded-2xl hover:scale-[1.1] transition-all duration-300 h-[5em] w-[5em] md:h-[10em] md:w-[10em] bg-contain' style={{backgroundImage:`url('/Images/leetcode.png')`}}>
                     
                 </a >
-                <a href='https://www.geeksforgeeks.org/user/mouryaama2wex/' className='gfg rounded-2xl hover:scale-[1.1] transition-all duration-300 h-[5em] w-[5em] md:h-[10em] md:w-[10em] bg-contain' style={{backgroundImage:`url('/Images/gfg.png')`}}>
+                <a href='https://www.geeksforgeeks.org/profile/amanmourya31' className='gfg rounded-2xl hover:scale-[1.1] transition-all duration-300 h-[5em] w-[5em] md:h-[10em] md:w-[10em] bg-contain' style={{backgroundImage:`url('/Images/gfg.png')`}}>
                     
                 </a >
                 <a href='https://codeforces.com/profile/Aman_Mourya31_' className='cf rounded-2xl hover:scale-[1.1] transition-all duration-300 h-[5em] w-[5em] md:h-[10em] md:w-[10em] bg-contain' style={{backgroundImage:`url('/Images/cf.webp')`}}>
